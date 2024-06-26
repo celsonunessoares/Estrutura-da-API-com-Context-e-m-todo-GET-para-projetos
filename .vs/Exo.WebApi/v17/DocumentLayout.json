@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|c:\\users\\celso\\senai\\04c - atividade 3\\material-para-o-aluno-fazer-atividade\\exo.webapi\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|solutionrelative:models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|c:\\users\\celso\\senai\\04c - atividade 3\\material-para-o-aluno-fazer-atividade\\exo.webapi\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|solutionrelative:controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|c:\\users\\celso\\senai\\04c - atividade 3\\material-para-o-aluno-fazer-atividade\\exo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|c:\\users\\celso\\senai\\04c - atividade 3\\material-para-o-aluno-fazer-atividade\\exo.webapi\\exo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A855CCBC-E7A3-428D-A95F-C4E0ADE005E2}|Exo.WebApi.csproj|solutionrelative:exo.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Models\\Projeto.cs",
+              "RelativeDocumentMoniker": "Models\\Projeto.cs",
+              "ToolTip": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Models\\Projeto.cs",
+              "RelativeToolTip": "Models\\Projeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:25:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetosController.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Controllers\\ProjetosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjetosController.cs",
+              "ToolTip": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Controllers\\ProjetosController.cs",
+              "RelativeToolTip": "Controllers\\ProjetosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:25:06.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:22:42.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exo.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+              "RelativeDocumentMoniker": "Exo.WebApi.csproj",
+              "ToolTip": "C:\\Users\\celso\\SENAI\\04c - Atividade 3\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+              "RelativeToolTip": "Exo.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T00:18:18.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
